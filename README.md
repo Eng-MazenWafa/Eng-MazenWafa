@@ -54,5 +54,5 @@ High-performance matrix computation utilizing multiprocessing techniques.
 ---
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](LINK_TO_YOUR_LINKEDIN)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([LINK_TO_YOUR_LINKEDIN](https://www.linkedin.com/in/mazen-wafa-3214531a5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXiYQwsHWSUG%2Bnr4v4pBXbw%3D%3D))
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:YOUR_EMAIL@gmail.com)
