@@ -31,6 +31,13 @@ I am a Computer and Automatic Control Engineering student at **Tanta University*
 
 ### 🚀 Featured Projects
 
+📊 [E-commerce Data Scraper](https://github.com/Eng-MazenWafa/E-commerce-Data-Scraper)
+
+An automated ETL pipeline developed in Python to extract raw e-commerce data, clean it, and format it for business analysis.
+
+* **Tech Stack:** Python, Pandas, BeautifulSoup, Requests.
+* **Key Concepts:** Web Scraping, Data Cleaning, Regular Expressions (Regex), ETL.
+
 #### 🐚 [Simple Shell Implementation](LINK_TO_REPO)
 A custom Unix-like shell developed in **C++** to understand process creation and management.
 - **Key Concepts:** System calls (`fork`, `exec`, `wait`), Process Management, Signal Handling.
