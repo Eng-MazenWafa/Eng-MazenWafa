@@ -31,6 +31,10 @@ I am a Computer and Automatic Control Engineering student at **Tanta University*
 
 ### 🚀 Featured Projects
 
+📊 [**Automotive E-commerce Scraper**](https://github.com/Eng-MazenWafa/E-commerce-Automotive-Data-Scraper-Cleaner-)
+An automated ETL pipeline in Python to extract and clean data from automotive websites for market analysis.
+* **Tech:** Python, Selenium, Pandas, ETL.
+  
 📊 [E-commerce Data Scraper](https://github.com/Eng-MazenWafa/E-commerce-Data-Scraper)
 
 An automated ETL pipeline developed in Python to extract raw e-commerce data, clean it, and format it for business analysis.
